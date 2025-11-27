@@ -2,7 +2,7 @@
 name = "clean-code"
 version = "0.1.0"
 description = ""
-authors = ["andrey <a.arbatskov@purpleplane.ru>"]
+authors = [""]
 readme = "README.md"
 packages = [{include = "clean_code"}]
 
